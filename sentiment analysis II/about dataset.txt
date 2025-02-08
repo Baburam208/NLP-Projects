@@ -1,0 +1,13 @@
+About Dataset (https://www.kaggle.com/datasets/atifaliak/youtube-comments-dataset)
+Discover the YouTube Comments Dataset, a fully cleaned and preprocessed collection of YouTube video comments. 
+This dataset is perfect for sentiment analysis, natural language processing, and text-based machine learning projects. 
+With all irrelevant data already removed and cleaning steps thoroughly performed, it provides clean, structured information, 
+allowing you to focus solely on insights and analysis. Dive into the world of social media trends and user behavior with this ready-to-use dataset!
+
+
+Potential Tasks:
+Sentiment Analysis: Classify comments into positive, negative, or neutral sentiment.
+Text Classification: Categorize comments based on themes or topics.
+Trend Analysis: Identify popular topics, phrases, or keywords across multiple videos.
+User Behavior Analysis: Analyze engagement and tone of comments over time.
+Topic Modeling: Discover hidden topics in user comments using techniques like LDA.
